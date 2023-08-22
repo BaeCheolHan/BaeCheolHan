@@ -6,7 +6,7 @@
 this is my [web site](https://stock.hws.pe.kr).
 
 this site is management our stocks ,dividends and statistics  
-
+##
 
 ### 🌱 I’m currently learning
 
@@ -25,6 +25,7 @@ this site is management our stocks ,dividends and statistics
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 </p>
 
+##
 
 ### 🔭 I’m currently working on ...   
 <!--
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![CheolHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeCheolHan&show_icons=true&theme=default)
-
+##
 
 ### :muscle: I’m currently Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeCheolHan&layout=compact&theme=tokyonight)
