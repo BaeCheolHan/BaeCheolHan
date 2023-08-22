@@ -7,8 +7,10 @@
 
 this is my [web site](https://stock.hws.pe.kr).
 
-this site is management our stocks ,dividends and statistics
+this site is management our stocks ,dividends and statistics  
 
+
+### 🔭 I’m currently working on ...   
 <!--
 **BaeCheolHan/BaeCheolHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
