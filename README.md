@@ -3,8 +3,6 @@
 
 ### Hi there 👋 
 
-
-
 this is my [web site](https://stock.hws.pe.kr).
 
 this site is management our stocks ,dividends and statistics  
@@ -25,8 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  
 ![CheolHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeCheolHan&show_icons=true&theme=default)
 
 
