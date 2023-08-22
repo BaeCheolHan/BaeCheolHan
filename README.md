@@ -15,11 +15,13 @@ this site is management our stocks ,dividends and statistics
   <img src="https://img.shields.io/badge/-springBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kotlin-544179?style=flat-plastic&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vue.js-116530?style=flat-plastic&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
   <p align='center'>
   <img src="https://img.shields.io/badge/-Mysql-blue?style=flat-plastic&logo=MariaDB Foundation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redis-F58840?style=flat-plastic&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redis-F58840?style=flat-plastic&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
  <p align='center'>
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
