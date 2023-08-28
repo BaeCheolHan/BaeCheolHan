@@ -13,7 +13,7 @@ this site is management our stocks ,dividends and statistics
 <p align='center'>
   <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-springBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kotlin-544179?style=flat-plastic&logo=Kotlin&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/-Kotlin-544179?style=flat-plastic&logo=Kotlin&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-Vue.js-116530?style=flat-plastic&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
